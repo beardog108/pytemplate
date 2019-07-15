@@ -1,6 +1,6 @@
 # Python Template
 
-This is a template repository for Python projects.
+This is a template repository for Python projects. I dedicate this template to the public domain using the creative commons zero license: https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
 Recommended tools:
 
