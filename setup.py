@@ -1,4 +1,4 @@
-from distutils.core import setup
+from setuptools import setup, find_packages
 
 setup(name='modulename',
       version='0.0.0',
@@ -6,7 +6,7 @@ setup(name='modulename',
       author='Author Name',
       author_email='author@example.com',
       url='https://example.com/',
-      packages=['basename'],
+      packages=find_packages(exclude=['contrib', 'docs', 'tests']),
       install_requires=[],
       classifiers=[
         "Programming Language :: Python :: 3",
