@@ -1,4 +1,4 @@
 venv/*
-streamedrequests/__pycache__/*
+helloworld/__pycache__/*
 testdata/*
 .vscode/*
